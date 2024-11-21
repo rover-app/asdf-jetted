@@ -1,8 +1,8 @@
 <div align="center">
 
-# asdf-jtd-codegen [![Build](https://github.com/DocumaticAI/asdf-jtd-codegen/actions/workflows/build.yml/badge.svg)](https://github.com/DocumaticAI/asdf-jtd-codegen/actions/workflows/build.yml) [![Lint](https://github.com/DocumaticAI/asdf-jtd-codegen/actions/workflows/lint.yml/badge.svg)](https://github.com/DocumaticAI/asdf-jtd-codegen/actions/workflows/lint.yml)
+# asdf-jetted [![Build](https://github.com/DocumaticAI/asdf-jetted/actions/workflows/build.yml/badge.svg)](https://github.com/DocumaticAI/asdf-jetted/actions/workflows/build.yml) [![Lint](https://github.com/DocumaticAI/asdf-jetted/actions/workflows/lint.yml/badge.svg)](https://github.com/DocumaticAI/asdf-jetted/actions/workflows/lint.yml)
 
-[jtd-codegen](https://github.com/DocumaticAI/json-typedef-codegen) plugin for the [asdf version manager](https://asdf-vm.com).
+[jetted](https://github.com/DocumaticAI/jetted) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
@@ -25,25 +25,25 @@
 Plugin:
 
 ```shell
-asdf plugin add jtd-codegen
+asdf plugin add jetted
 # or
-asdf plugin add jtd-codegen https://github.com/DocumaticAI/asdf-jtd-codegen.git
+asdf plugin add jetted https://github.com/DocumaticAI/asdf-jetted.git
 ```
 
-jtd-codegen:
+jetted:
 
 ```shell
 # Show all installable versions
-asdf list-all jtd-codegen
+asdf list-all jetted
 
 # Install specific version
-asdf install jtd-codegen latest
+asdf install jetted latest
 
 # Set a version globally (on your ~/.tool-versions file)
-asdf global jtd-codegen latest
+asdf global jetted latest
 
-# Now jtd-codegen commands are available
-jtd-codegen --version
+# Now jetted commands are available
+jetted --version
 ```
 
 Check [asdf](https://github.com/asdf-vm/asdf) readme for more instructions on how to
@@ -53,7 +53,7 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/DocumaticAI/asdf-jtd-codegen/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/DocumaticAI/asdf-jetted/graphs/contributors)!
 
 # License
 
