@@ -95,6 +95,9 @@ get_release_nugget() {
 	x86_64-linux)
 		nugget='x86_64-unknown-linux-musl'
 		;;
+	aarch64-linux)
+		nugget='aarch64-unknown-linux-musl'
+		;;
 	# i[3456]86-linux)
 	#   nugget='i686-unknown-linux-musl' ;;
 	x86_64-windows)
