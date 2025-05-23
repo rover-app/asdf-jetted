@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-GH_REPO="https://github.com/DocumaticAI/jetted"
+GH_REPO="https://github.com/rover-app/jetted"
 TOOL_NAME="jetted"
 TOOL_TEST="jetted --version"
 

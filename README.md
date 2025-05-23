@@ -1,8 +1,8 @@
 <div align="center">
 
-# asdf-jetted [![Build](https://github.com/DocumaticAI/asdf-jetted/actions/workflows/build.yml/badge.svg)](https://github.com/DocumaticAI/asdf-jetted/actions/workflows/build.yml) [![Lint](https://github.com/DocumaticAI/asdf-jetted/actions/workflows/lint.yml/badge.svg)](https://github.com/DocumaticAI/asdf-jetted/actions/workflows/lint.yml)
+# asdf-jetted [![Build](https://github.com/rover-app/asdf-jetted/actions/workflows/build.yml/badge.svg)](https://github.com/rover-app/asdf-jetted/actions/workflows/build.yml) [![Lint](https://github.com/rover-app/asdf-jetted/actions/workflows/lint.yml/badge.svg)](https://github.com/rover-app/asdf-jetted/actions/workflows/lint.yml)
 
-[jetted](https://github.com/DocumaticAI/jetted) plugin for the [asdf version manager](https://asdf-vm.com).
+[jetted](https://github.com/rover-app/jetted) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
@@ -27,7 +27,7 @@ Plugin:
 ```shell
 asdf plugin add jetted
 # or
-asdf plugin add jetted https://github.com/DocumaticAI/asdf-jetted.git
+asdf plugin add jetted https://github.com/rover-app/asdf-jetted.git
 ```
 
 jetted:
@@ -53,8 +53,8 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/DocumaticAI/asdf-jetted/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/rover-app/asdf-jetted/graphs/contributors)!
 
 # License
 
-See [LICENSE](LICENSE) © [Isaac Harris-Holt](https://github.com/DocumaticAI/)
+See [LICENSE](LICENSE) © [Isaac Harris-Holt](https://github.com/rover-app/)
